@@ -13,3 +13,10 @@ sgt_pepper = {
   "is_cute" => true,
   "color" => ['red', 'black', 'white']
 }
+
+customer = {
+  "name" => "Karen",
+  "age" => 60,
+  "is_rude" => true,
+  "demands" => ['speak to the manager', 'better service', "cheaper rates"]
+}
